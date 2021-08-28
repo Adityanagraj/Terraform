@@ -1,3 +1,7 @@
+#########################################################################################################################
+Here we will be creating our VPC with with our own Subnetwork and attaching it to our OS with Public-IP and Startup Script
+#########################################################################################################################
+
 provider "google" {
   project     = <project_ID>
   region      = <region>
