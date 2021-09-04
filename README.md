@@ -8,3 +8,4 @@ In this repository Will be updating Terraform code to setup infrastructure in Cl
 </ol>
 
 [GCF-Tracker](https://gcf-tracker.herokuapp.com/)
+[link](https://github.com/Adityanagraj/Terraform/blob/main/VM%20integration%20with%20VPC.tf)
